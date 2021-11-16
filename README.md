@@ -2,4 +2,4 @@
 
 An aluminium UTM for weak bioplastics.
 
-<img src="/img/iso.png" width="700">
+<img src="/imgs/iso.png" width="700">
